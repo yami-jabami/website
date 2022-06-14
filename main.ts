@@ -1,5 +1,3 @@
-/** @jsx h */
-
 import blog from "https://deno.land/x/blog@0.3.3/blog.tsx";
 
 await blog({
