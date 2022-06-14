@@ -8,7 +8,7 @@ await blog({
   avatar: "./jabami.jpeg",
   avatarClass: "rounded-full",
   links: [
-    { title: "Email", url: "mailto:yami.jabami@icloud.com" },
+    { title: "Email", url: "mailto:yumeko@jabami.jp" },
     { title: "GitHub", url: "https://github.com/yami-jabami" },
   ],
   background: "#f9f9f9"
